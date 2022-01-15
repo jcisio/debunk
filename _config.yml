@@ -1,1 +1,12 @@
+title: Tránh thông tin sai lệch về Covid-19
 theme: jekyll-theme-architect
+github:
+  is_project_page: false
+collections:
+  benh-tat:
+    output: true
+  covid:
+    output: true
+  vac-xin:
+    output: true
+collections_dir: content
