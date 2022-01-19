@@ -18,7 +18,7 @@
 * [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
-# Linh tinh
+# Các chủ đề khác
 
 {% for page in site.pages %}
 {% if page.title %}* [{{ page.title }}]({{ page.url }}){% endif %}
