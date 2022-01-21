@@ -3,7 +3,7 @@ layout: default
 title: Phản ứng phụ của vắc-xin
 ---
 
-# Phản ứng phụ của vắc-xin
+# Phản ứng phụ (sốc phản vệ) của vắc-xin
 
 Nhận định:
 
@@ -58,3 +58,39 @@ Trong hầu hết các trường hợp xảy thai, thai nghi đều phát triể
 * Không có dấu hiệu cho thấy bất kì vắc-xin nào, gồm vắc-xin Covid-19, gây vấn đề với khả năng sinh sản của phụ nữ hoặc nam giới
 
 [Tại Pháp](https://ansm.sante.fr/dossiers-thematiques/covid-19-vaccins/covid-19-vaccins-et-femmes-enceintes), số liệu cho thấy thai phụ có bệnh nền (béo phì, cao huyết áp...) dường như có nguy cơ có triệu chứng Covid-19 năng hơn, hoặc biệt trong giai đoạn 3 của thai kì. Kể từ ngày 3/4/2021, **tất cả** phụ nữ có thai, kể từ giai đoạn hai của thai kì, được ưu tiên dùng vắc-xin mARN.
+
+## Vắc-xin có an toàn?
+
+Các báo cáo phân loại trên thế giới, người ta chia ra khoảng 10 nhóm dị nguyên hay gây phản ứng quá mẫn. Trong đó hay gặp nhất là các thuốc kháng sinh, thuốc giảm đau, thực phẩm, nọc các loại côn trùng, kháng thể đơn dòng, các loại protein lạ... Thậm chí protein từ sữa cũng có thể gây dị ứng: khoảng 4% trẻ em bị dị ứng với sữa (khoảng 0,5% trẻ em dị ứng với sữa mẹ), hệ miễn dịch của những trẻ này xem protein từ sữa như kẻ thù và gây phản ứng chống lại chúng.
+
+Vaccine không nằm trong nhóm các chất hay gây phản ứng quá mẫn này.
+
+Trên thực tế các loại vaccine đều được sản xuất để phục vụ cho nhu cầu của cộng đồng, nghĩa là tiêm cho số lượng lớn một nhóm người nào đó nhằm mục đích phòng bệnh. Do vậy việc kiểm định vaccine, từ nguồn nguyên liệu, quy trình sản xuất, phụ gia để bảo quản, thành phần hoạt chất các kháng nguyên... đều vô cùng nghiêm ngặt.
+
+Tỷ lệ gây các *phản ứng nghiêm trọng* của các loại vaccine nói chung đều rất thấp, thường được tính bằng một đến vài trường hợp/100.000 người hoặc một vài trường hợp/1.000.000 người. Các vaccine ngừa Covid-19 được FDA và EMA phê duyệt đến thời điểm này, trong đó có Pfizer đều như vậy. Như đã nói ở trên, tại Pháp không có trường hợp tử vong bởi vắc-xin mARN (Pfizer hoặc Moderna), còn với 8,8 triệu liều AstraZeneca và Janssen tiêm cho người trên 18 tuổi (số liệu tháng 10/2021) tỉ lệ tử vong tối đa là 1,5/1.000.000 người. Tại Mỹ, nghiên cứu đăng trên Tập san y khoa JAMA [tháng 1/2021](https://jamanetwork.com/journals/jama/fullarticle/2776557) cho thấy xác suất sốc phản vệ liên quan đến vaccine Pfizer là 4,7/1.000.000 (nghiên cứu trên 10 triệu liều vắc-xin) nhưng họ không ghi nhận một ca tử vong nào từ sốc phản vệ.
+
+Đối với [những số liệu mới hơn](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-12-16/02-COVID-See-508.pdf) tính đến 31/8/2021, trong số 14,1 triệu liều vắc-xin Janssen tại Mỹ, có 54 ca được xác định có liên quan tới tình trạng huyết khối kèm hội chứng giảm tiều cầu (TTS) hiếm gặp, trong đó 8 ca dẫn đến tử vong (0,6/1.000.000 người, vắc-xin Janssen).
+
+> Theo số liệu do Bộ Y tế Việt Nam cung cấp cuối tháng 11/2021, tại Thanh Hoá, đã có 70 ca sốc phản vệ sau khi tiêm, trong đó có 4 ca tử vong trên tổng số 2,64 triệu liều vắc-xin.
+
+Tỉ lệ sốc phản vệ và tử vong tại Thanh Hóa đều cao hơn nhiều lần so với tại Mỹ. Tuy đây là vắc-xin Verocell, không thể dễ dàng so sánh, nhưng có thể kết luận vắc-xin này, tương tự những loại vắc-xin bất hoạt khác, kém an toàn hơn vắc-xin mARN.
+
+> Việt Nam đã tiêm 3.512.874 liều vắc-xin cho trẻ 12-17 tuổi (số liệu cuối tháng 11/2021). Có 3 em tử vong.
+
+Tại Mỹ, [từ 3/11 đến 19/12/2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm705152a1.htm), có 8,7 triệu liều vắc-xin Pfizer được tiêm cho trẻ em từ 5 đến 11 tuổi. Có 4249 trường hợp được báo cáo nghi ngờ liên quan đến sốc phòng vệ, trong đó có 2 ca tử vong. Hai ca tử vong này đều có tiền sử bệnh tật và sưc khỏe không tốt trước khi tiêm vắc-xin, VAERS không tìm thấy bằng chứng nào cho thấy quan hệ nhân quả giữa hai ca này và vắc-xin.
+
+Theo Giáo sư Nguyễn Văn Tuấn, Đại học NSW (Úc), xác suất tử vong vì sốc phản vệ sau tiêm vaccine là khoảng 4/100 triệu, và với số ca tiêm vaccine đó thì không kỳ vọng một ca tử vong nào xảy ra. Thế nhưng trong thực tế 3 em đã tử vong. Đó là một điều đáng quan tâm và cần phải có điều tra khoa học. Hiện tại công chúng không có thông tin gì về những trường hợp này.
+
+Đến [đầu tháng 12/2021](https://vnexpress.net/hon-120-tre-nhap-vien-sau-tiem-thanh-hoa-dung-lo-vaccine-4397532.html), có 120 trẻ em phải vào viện sau khi tiêm vắc-xin Pfizer tại Thanh Hóa. Lô vắc-xin này đã bị dừng sử dụng.
+
+Vào tháng 1/2022, một trường hợp trẻ em khác tử vong tại Việt Nam. Em này đã sốc phản vệ ở mũi đầu nhưng tiếp tục được tiêm mũi hai tại điểm tiêm, và không cấp cứu kịp.
+
+Từ các số liệu trên, ít ra có thể kết luận là tiêm vắc-xin ở Việt Nam kém an toàn hơn so với châu Âu và Mỹ. Vấn đề có thể đến từ việc bảo quản vắc-xin hoặc kiểm tra sức khỏe trước khi tiêm hoặc cả hai.
+
+## Có nên tiêm vắc-xin Covid-19?
+
+[Hiệu quả]({%link _vac-xin/hieu-qua.md %}) của vắc-xin thì đã rõ ràng, nó chắc chắn giảm số ca nặng và tỉ lệ tử vong, nhất là ở người lớn tuổi. Đối với trẻ em, cơ thể có sức đề kháng tốt hơn, nhưng số trường hợp tử vong do Covid cũng không hiếm gặp. Tại Mỹ, tính đến 19/1/2022, có [862 trẻ em từ 0 đến 18 tuổi](https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Focus-on-Ages-0-18-Yea/nr4s-juj3) đã tử vong vì Covid-19. Trong khi đó, chưa có trường hợp nào được xác nhận là tử vong do vắc-xin. Tại TPHCM, [tính đến 17/11/2021](https://tuoitre.vn/benh-nhan-covid-19-tu-vong-o-tp-hcm-nu-nhieu-hon-nam-86-tren-50-tuoi-voi-hon-mot-nua-tren-65-tuoi-20211117164214087.htm) có 17.263 ca tử vong vì Covid-19, trong đó có 38 trẻ em.
+
+Vắc-xin hiện nay là cách duy nhất để tránh quá tải bệnh viện đồng thời giảm tử vong. Các loại thuốc trị Covid hiện nay đang hiếm và chưa có tác dụng rõ ràng trên thực tế.
+
+Với chủng Omicron lây mạnh hơn nhưng ít nguy hiểm hơn, *có thể* chúng ta sẽ đạt được miễn dịch cộng đồng. Tuy nhiên, chủng mới này vẫn nguy hiểm hơn cúm mùa, và số người chết do Omicron vẫn sẽ tăng. Và tiêm vắc-xin vấn là biện pháp *an toàn hơn* không tiêm vắc-xin, cho dù là ở Việt Nam. Tuy nhiên về mặt tâm lý có một nghịch lý cần vượt qua: nếu bạn tiêm vắc xin và bị sốc phản vệ bạn cho rằng đó là hậu quả cho lựa chọn sai lầm của bạn, nhưng nếu bạn không tiêm và có kết quả tương tự (nằm viện hoặc tử vong) và cho dù xác suất việc này diễn ra cao hơn nhiều, bạn lại cho rằng đó là do "tự nhiên" chứ không phải do hành động "không tiêm" của bạn.
